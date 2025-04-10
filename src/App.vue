@@ -36,7 +36,7 @@ const accept = () => {
 </script>
 <template>
   <div v-if="step === 1" class="container">
-    <h1>Oii Sofia, eu queria saber se você quer namorar comigo?! 🥰</h1>
+    <h1>Oii Amor 🥰</h1>
     <h3> eu queria deixar claro mais uma vez que eu sou pessimo com palavras, eu queria te dizer que eu te amo demais, vc chegou na minha vida em um momento que eu menos esperava achar alguém, vc mudou minha vida fazendo ela ficar divertida todo dia, mesmo longe eu fico rindo dos seus stories no pvd, lembrando da gnt junto e rindo de fofocas que vc me conta, eu amo a forma que você me trata, a maneira que você me olhar e o jeito que vc sorri pra mim, vc me faz o homem mais feliz do mundo, eu sinto que com você do meu lado eu sempre serei mais feliz, eu te amo demais e obrigado por tudo minha princesa, eu prometo que vou te fazer a pessoa mais feliz do mundo, eu sou muito apaixonado em você e com isso eu quero saber, quer namorar comigo?</h3>
     <div class="buttons">
       <button class="accept-button" @click="accept">Sim</button>
