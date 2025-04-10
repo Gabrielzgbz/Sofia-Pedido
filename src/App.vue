@@ -36,7 +36,7 @@ const accept = () => {
 </script>
 <template>
   <div v-if="step === 1" class="container">
-    <h1>Gostaria de saber se você quer sair comigo!! hahaha 🥰</h1>
+    <h1>Oii Sofia, eu queria saber se você quer namorar comigo?! 🥰</h1>
     <div class="buttons">
       <button class="accept-button" @click="accept">Sim</button>
       <button
@@ -49,8 +49,8 @@ const accept = () => {
     </div>
   </div>
   <div v-if="step === 2" class="container">
-    <h2>Eu sabia que você não iria resistir, hahahah!</h2>
-    <h3>Mandarei mais informações no whatsapp! Até breve!!! 🥰</h3>
+    <h2>Eu imaginei isso, hahahah!</h2>
+    <h3>Eu te Amo Demais vida 🥰</h3>
 
   </div>
 </template>
